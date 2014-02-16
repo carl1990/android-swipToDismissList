@@ -12,9 +12,7 @@ import android.widget.ListView;
 import android.widget.Scroller;
 
 /**
- * @blog http://blog.csdn.net/xiaanming
- * 
- * @author xiaanming
+ *
  * 
  */
 public class SlideCutListView extends ListView {
